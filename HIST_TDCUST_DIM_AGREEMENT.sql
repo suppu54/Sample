@@ -1,4 +1,4 @@
-/* Truncation of the work table */
+/* Truncation of the work tablewccwcwcw */
 TRUNCATE TABLE EDW_WORK.TDCUST_DIM_AGREEMENT;
 
 /* Select to capture insert and update records */
